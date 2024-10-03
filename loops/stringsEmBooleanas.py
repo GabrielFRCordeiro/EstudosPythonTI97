@@ -1,0 +1,6 @@
+print(bool(""))
+print(bool(" "))
+print(bool("a"))
+print(bool(42))
+print(bool(0))
+print(bool(-1))

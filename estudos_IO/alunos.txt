@@ -1,0 +1,4 @@
+Pedrão|4.7
+Maria|4.7
+Jonas|4.7
+Jonas|4.7
